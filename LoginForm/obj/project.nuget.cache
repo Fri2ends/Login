@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O3mRXlUO+82JmVq0Qb0pCvcPrvGVKveeEJ3hxYflXoF83Du5flY3o5QH03Bwi8M9C8b5Au55Yj1MfMGsbE2cZQ==",
+  "success": true,
+  "projectFilePath": "D:\\project\\Cs\\WPF\\LoginForm\\LoginForm\\LoginForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amir Hossin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
